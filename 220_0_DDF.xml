@@ -3,14 +3,13 @@
     <Item>
         <!-- Integer -->
         <!-- ObjectID -->
-        <ObjectID>0</ObjectID>
+        <ObjectID>1000</ObjectID>
         <!-- URN of the object -->
-        <URN>urn:oma:lwm2m:oma:0:1.0</URN>
+        <URN>urn:oma:lwm2m:oma:1000:1.0</URN>
         <!-- Name of the object -->
         <Name></Name>
         <!-- Description of the Object -->
-        <Description>This LwM2M Object provides the keying material of a LwM2M Client appropriate to access a specified LwM2M Server. One Object Instance SHOULD address a LwM2M Bootstrap-Server.
-These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or Bootstrap from Smartcard and MUST NOT be accessible by any other LwM2M Server.</Description>
+        <Description>A new description</Description>
         <!-- Name of the organization that has registered the object -->
         <Owner>Test WG</Owner>
         <!-- Type of Object: 0 = defined by OMA, 1 = defined by external Standards Development Organizations, 2 = private or individual -->
@@ -18,7 +17,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <!-- Ver of the object, not visible, not used -->
         <Ver>1.0</Ver>
         <!-- URL to the xml file describing the object -->
-        <DDF>LWM2M_Security-v1_1.xml</DDF>
+        <DDF>1000.xml</DDF>
         <!-- Link that opens the Object in the Vorto environment -->
         <Vorto></Vorto>
         <!-- 0 => if link to object should not be visible, 1 => if object should be visible (default) -->
