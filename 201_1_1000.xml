@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LWM2M xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://openmobilealliance.org/tech/profiles/LWM2M.xsd" >
+	<Object ObjectType="MODefinition">
+		<Name>Name1000</Name>
+		<Description1><![CDATA[Description1003.]]></Description1>
+		<ObjectID>1000</ObjectID>
+		<ObjectURN>urn:oma:lwm2m:oma:1000</ObjectURN>
+		<MultipleInstances>Multiple</MultipleInstances>
+		<Mandatory>Mandatory</Mandatory>
+		<Resources>
+			<Item ID="0">
+			<Name>Res0</Name>
+			<Operations></Operations>
+			<MultipleInstances>Single</MultipleInstances>
+			<Mandatory>Mandatory</Mandatory>
+			<Type>String</Type>
+			<RangeEnumeration>0..255 bytes</RangeEnumeration>
+			<Units></Units>
+			<Description><![CDATA[Uniquely identifies the LwM2M Server or LwM2M Bootstrap-Server. The format of the CoAP URI is defined in Section 6 of RFC 7252.]]></Description>
+			</Item>
+		</Resources>
+		<Description2><![CDATA[]]></Description2>
+	</Object>
+</LWM2M>
