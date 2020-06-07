@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LWM2M xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmobilealliance.org/tech/profiles/reusable_resources_v1_0.xsd">
+  <Object ObjectType="CommonResources">
+    <Resources>
+      <!-- Resource ID of the reusable resource -->
+      <Item ID="1">
+        <!-- Name of the reusable resource -->
+        <Name>ObjectVersion</Name>
+        <!-- Allowed Operation on the reusable resource-->
+        <Operations>R</Operations>
+        <!-- Type of the reusable resource -->
+        <Type>String</Type>
+        <!-- Range/Enumeration of the reusable resource -->
+        <RangeEnumeration></RangeEnumeration>
+        <!-- Unit of the reusable resource -->
+        <Units></Units>
+        <!-- Name of the organization that has registered the object -->
+        <Submitter>OMA</Submitter>
+        <!-- Description of the reusable resource -->
+        <Description><![CDATA[LWM2M Object versioning label.]]></Description>
+        <!-- Link to the technical specification (word, pdf etc.) -->
+        <TS></TS>
+        <!--    0 => if link to TS should not be visible, 1 => if link to TS should be visible (default) -->
+        <TSLink>0</TSLink>
+      </Item>
+    </Resources>
+  </Object>
+</LWM2M>
