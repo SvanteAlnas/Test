@@ -3,7 +3,7 @@
   <Object ObjectType="CommonResources">
     <Resources>
       <!-- Resource ID of the reusable resource -->
-      <Item ID="1">
+      <Item ID="4001">
         <!-- Name of the reusable resource -->
         <Name>Name</Name>
         <!-- Allowed Operation on the reusable resource-->
