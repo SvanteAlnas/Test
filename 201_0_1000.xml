@@ -4,7 +4,7 @@
 		<Name>Name1000</Name>
 		<Description1><![CDATA[Description1003.]]></Description1>
 		<ObjectID>1000</ObjectID>
-		<ObjectURN>urn:oma:lwm2m:oma:1000</ObjectURN>
+		<ObjectURN>urn:oma:lwm2m:oma:1000:1.0</ObjectURN>
 		<MultipleInstances>Multiple</MultipleInstances>
 		<Mandatory>Mandatory</Mandatory>
 		<Resources>
