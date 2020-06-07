@@ -3,7 +3,7 @@
     <Item>
         <!-- Integer -->
         <!-- ObjectID -->
-        <ObjectID>1001</ObjectID>
+        <ObjectID>1000</ObjectID>
         <!-- URN of the object -->
         <URN>urn:oma:lwm2m:oma:1000:1.0</URN>
         <!-- Name of the object -->
