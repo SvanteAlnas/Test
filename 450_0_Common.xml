@@ -13,7 +13,7 @@
         <!-- Range/Enumeration of the reusable resource -->
         <RangeEnumeration>0..255</RangeEnumeration>
         <!-- Unit of the reusable resource -->
-        <Units>Bytes</Units>
+        <Units></Units>
         <!-- Name of the organization that has registered the object -->
         <Submitter>OMA</Submitter>
         <!-- Description of the reusable resource -->
