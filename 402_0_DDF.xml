@@ -17,7 +17,7 @@
         <!-- Ver of the object, not visible, not used -->
         <Ver>1.0</Ver>
         <!-- URL to the xml file describing the object -->
-        <DDF>402_0_1003.xml</DDF>
+        <DDF>402_0_1000.xml</DDF>
         <!-- Link that opens the Object in the Vorto environment -->
         <Vorto></Vorto>
         <!-- 0 => if link to object should not be visible, 1 => if object should be visible (default) -->
