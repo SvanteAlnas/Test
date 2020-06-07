@@ -3,8 +3,8 @@
 	<Object ObjectType="MODefinition">
 		<Name>Name1000</Name>
 		<Description1><![CDATA[Description1000.]]></Description1>
-		<ObjectID>1000</ObjectID>
-		<ObjectURN>urn:oma:lwm2m:oma:1000:1.0</ObjectURN>
+		<ObjectID>1001</ObjectID>
+		<ObjectURN>urn:oma:lwm2m:oma:1001:1.0</ObjectURN>
 		<MultipleInstances>Multiple</MultipleInstances>
 		<Mandatory>Mandatory</Mandatory>
 		<Resources>

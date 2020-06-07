@@ -3,9 +3,9 @@
     <Item>
         <!-- Integer -->
         <!-- ObjectID -->
-        <ObjectID>1111</ObjectID>
+        <ObjectID>1000</ObjectID>
         <!-- URN of the object -->
-        <URN>urn:oma:lwm2m:oma:1111:1.0</URN>
+        <URN>urn:oma:lwm2m:oma:1000:1.0</URN>
         <!-- Name of the object -->
         <Name>Name1000</Name>
         <!-- Description of the Object -->
